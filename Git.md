@@ -10,9 +10,9 @@
 
   You are going to click `Browse` and navigate to the `C:\Users` directory.  Then you are going to click on the subdirectriy that is your __`username`__. You should have the following in the text box (where you would just replace your __`username`__ in the entry).
 
-  ```diff
-  ! NOTE: Throughout the rest of the guide, you need to remember to replace __`username`__ with your username!
-  ```
+  
+  NOTE: Throughout the rest of the guide, you need to remember to replace __username__ with your username!
+
 
 ![](/images/GitInstall_B.png)
 
@@ -62,7 +62,7 @@ C:\Users\username>git config --list
 11) Next, you want to install [Miniforge](Miniforge.md)
 
 ---
-Extra Steps (when command window won't start):
+Extra Steps (ONLY when the command window won't start due to this error):
 
 A) Make sure the __`auto run`__ part of the registry is cleared.  __`Please note that modifying the Registry can be harmful if you do not know what you are doing`__.  Go to the Windows search box and type this in
 
@@ -72,11 +72,11 @@ B) Click on the Registry Editor icon above
 
 ![](/images/RegEdit_B.png)
 
-C) Navigate to the following section in the registry: __`Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\CommandProcessor`__.  If you see an entry called __`AutoRun`__ that has the following contents, you should right-click that entry and delete it.  
+C) Navigate to the following section in the registry: __`Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\CommandProcessor`__.  If you see an entry called __`AutoRun`__ that has the specfic following contents, you should right-click that entry and delete it.  
 
 ![](/images/RegEdit_C.png)
 
-D) It should be removed (like below) when you are finished
+D) When you are done, it should be removed (like below)
 
 ![](/images/RegEdit_D.png)
 

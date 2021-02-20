@@ -3,14 +3,14 @@
 
 This is a step-by-step guide to install software on your computer for the development of Python programs and Jupyter notebooks.  I put this guide together mostly to document the process that I use.  Your mileage may vary.
 
-I recommend installing the software in the following order:
+You will need the following 4 software titles. I recommend installing them in the following order:
 
 1) [Notepad++ (ver 7.9.3)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.30.1)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge (ver 4.9.2)](Miniforge.md)  (Stripped down version of Anaconda)
 4) [VScode (ver 1.53.2)](VScode.md)  (This is the development IDE that I use)
 ---
-## Here is a list of other free software that I use
+## Just as an FYI, Here is a list of other free software that I use
 
 * Office suite
     * [Libre Office (ver 7.1.0)](https://www.libreoffice.org)

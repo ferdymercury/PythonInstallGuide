@@ -60,7 +60,7 @@ At this point, you have a basic Python enviroment that you can use to write prog
 ```
 (base) C:\Users\username>conda init --reverse cmd.exe powershell
 ```
-10) Close that window and then open a Power Shell window by typing power shell in the search bar
+10) Next, close that window and then open a __Power Shell__ window by typing power shell in the search bar
 
 ![](/images/CondaInit_A.png)
 ![](/images/CondaInit_B.png)
@@ -73,9 +73,11 @@ PS C:\Users\username>Set-ExecutionPolicy -Scope CurrentUser Unrestricted
 ```
 (base) C:\Users\username>conda init cmd.exe powershell
 ```
+Now, when you open a Power Shell window, it will come up with (base) environment enabled by default.  Also, when you open a standard CMD window, all you have to do is type `activate` to activate the (base) environment.
+
 ---
 13) Next, we will create the Windows Start menu shortcuts. Download the files in the __`Menu`__ directory of this repository and put them in the following directory:
-__`C:\Users\Username\Miniforge3\Menu`__
+__`C:\Users\username\Miniforge3\Menu`__
 
 ![](/images/MenuDirectroy.png)
 
