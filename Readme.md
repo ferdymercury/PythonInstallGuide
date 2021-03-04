@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on an MS Windows-based computer
-## Rev 2/19/2021
+## Rev 3/4/2021
 
 This is a step-by-step guide to install software on your computer for the development of Python programs and Jupyter notebooks.  I put this guide together mostly to document the process that I use.  Your mileage may vary.
 
@@ -13,7 +13,7 @@ You will need the following 4 software titles. I recommend installing them in th
 ## Just as an FYI, Here is a list of other free software that I use
 
 * Office suite
-    * [Libre Office (ver 7.1.0)](https://www.libreoffice.org)
+    * [Libre Office (ver 7.1.1)](https://www.libreoffice.org)
 * Sound recorder/editor
     * [Audacity (ver 2.4.2)](https://www.audacityteam.org)
 * Image viewing, creating and editing
@@ -22,7 +22,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [ImageJ (ver 1.53h)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.0.2)](https://inkscape.org)
-    * [DrawIO Desktop (ver 14.1.8)](https://www.draw.io)
+    * [DrawIO Desktop (ver 14.4.3)](https://www.draw.io)
 * 2D mechanical drawing (Looking for a better option here...)
     * [LibreCAD (ver 2.2.0-rc2)](https://librecad.org)
 * 3D mechanical drawing and modeling
@@ -34,6 +34,6 @@ You will need the following 4 software titles. I recommend installing them in th
     * [MeshLab (ver 2020.12)](https://www.meshlab.net)
 * EE specific tools
     * [KiCAD (ver 5.1.9_1)](https://kicad-pcb.org) (Schematic capture and PCB layout)
-    * [LTspice (ver Dec 15, 2020)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) (Circuit simulation)
+    * [LTspice (ver Feb 19, 2021)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) (Circuit simulation)
     * [Arduino IDE (ver 1.8.13)](https://www.arduino.cc) (IDE for Arduino control boards)
     * [Putty (ver 0.74)](https://www.putty.org) (Communication tool)
