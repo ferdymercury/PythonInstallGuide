@@ -8,7 +8,7 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 7.9.3)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.30.1)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge (ver 4.9.2)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.53.2)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.54.0)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
 
