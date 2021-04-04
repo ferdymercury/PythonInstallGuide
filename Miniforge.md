@@ -39,7 +39,7 @@
 (base) C:\Users\username>conda create -n py python=3
 ```
 
-7) I have created a list of packages that I feel are necessary for most engineering type problems in Python and [Jupyter Lab](https://jupyter.org/).  You can midify this is needed.  You are going to want to download this [requirements.txt](requirements.txt) file into your *Documents* directory.
+7) I have created a list of packages that I feel are necessary for most engineering type problems in Python and [Jupyter Lab](https://jupyter.org/).  You can modify this is needed.  You are going to want to download this [requirements.txt](requirements.txt) file into your *Documents* directory.
 
 8) Next, open up the (base) window as shown in step 4) and type the following
 ```
@@ -52,8 +52,11 @@ At this point, you have a basic Python enviroment that you can use to write prog
 ---
 ## Additional (but important) Steps
 * Enable both the Windows command prompt and the Windows Power Shell prompt to start with "conda" environments available
+  * This is really optional (a matter of preference)
 * Add Windows Start menu shortcuts for the applications
+  * I find this extremely helpful
 * Enable Jupyter Lab to start as a stand-alone application
+  * If you want to open a document from any folder on your c:\ drive
 ---
 
 9) First, open a new command window as shown in step 4) & 5) and type in the following command
@@ -84,13 +87,13 @@ __`C:\Users\username\Miniforge3\Menu`__
 14) Next, open up another (base) command window as described in step 4) & 5) and type the following
 ```
 (base) C:\Users\username>cd C:\
-(base) C:\>menuinst C:\Users\username\miniforge\Menu\baseCMDconsole_shortcut.json
-(base) C:\>menuinst C:\Users\username\miniforge\Menu\basePSconsole_shortcut.json
-(base) C:\>menuinst C:\Users\username\miniforge\Menu\pyCMDconsole_shortcut.json
-(base) C:\>menuinst C:\Users\username\miniforge\Menu\pyPSconsole_shortcut.json
-(base) C:\>menuinst C:\Users\username\miniforge\Menu\Jupyterlab_shortcut.json
+(base) C:\>menuinst C:\Users\username\miniforge3\Menu\baseCMDconsole_shortcut.json
+(base) C:\>menuinst C:\Users\username\miniforge3\Menu\basePSconsole_shortcut.json
+(base) C:\>menuinst C:\Users\username\miniforge3\Menu\pyCMDconsole_shortcut.json
+(base) C:\>menuinst C:\Users\username\miniforge3\Menu\pyPSconsole_shortcut.json
+(base) C:\>menuinst C:\Users\username\miniforge3\Menu\Jupyterlab_shortcut.json
 ```
-This should put shortcuts in the Start menu to directly run the various programs.  Go look at the Windows Start menu under __`Miniforge3`__.
+This should install/place shortcuts in the Start menu so you can directly open windows with conda environments activated or run JupyterLab directly.  Go look at the Windows Start menu under __`Miniforge3`__.
 
 ---
 
@@ -131,7 +134,7 @@ Next, where you see this:
 #  Default: ''
 # c.NotebookApp.notebook_dir = ''
 ```
-Modify this line (In order to start Jupyter Lab at C:\\). (*__Also, don't forget the remove the hash at the begining__*)
+Modify this line (In order to start Jupyter Lab at C:\\). (*__Also, don't forget to remove the hash at the begining__*)
 * c.NotebookApp.notebook_dir = 'C:\\\\'
 ---
 
