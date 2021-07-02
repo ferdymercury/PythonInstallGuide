@@ -11,7 +11,7 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.57.1)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community (ver 16.10.2)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community (ver 16.10.3)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.1.4)](https://www.libreoffice.org)
@@ -31,7 +31,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [FreeCAD (ver 0.19.2)](https://www.freecadweb.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.3.1)](https://www.prusa3d.com/prusaslicer)
-    * [Cura (ver 4.9.1)](https://ultimaker.com/software/ultimaker-cura)
+    * [Cura (ver 4.10.0)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2021.05)](https://www.meshlab.net)
 * EE specific tools
     * [KiCAD (ver 5.1.10_1)](https://kicad-pcb.org) (Schematic capture and PCB layout)
