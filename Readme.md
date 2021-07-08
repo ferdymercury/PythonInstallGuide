@@ -1,11 +1,11 @@
 # Installation instructions for a Python environment on an MS Windows-based computer
-## Rev 6/28/2021
+## Rev 7/8/2021
 
 This is a step-by-step guide to install software on your computer for the development of Python programs and Jupyter notebooks.  I put this guide together mostly to document the process that I use.  Your mileage may vary.
 
 You will need the following 4 software titles. I recommend installing them in the following order:
 
-1) [Notepad++ (ver 8.1)](NotepadPlusPlus.md) (This is the text editor that I use)
+1) [Notepad++ (ver 8.1.1)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.32.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge (ver 4.10.2-0)](Miniforge.md)  (Stripped down version of Anaconda)
 4) [VScode (ver 1.57.1)](VScode.md)  (This is the development IDE that I use)
@@ -20,7 +20,7 @@ You will need the following 4 software titles. I recommend installing them in th
 * Image viewing, creating and editing
     * [IRfanView (ver 4.58)](https://www.irfanview.com)
     * [Paint.net (ver 4.2.16)](https://www.getpaint.net)
-    * [ImageJ (ver 1.53j)](https://imagej.nih.gov/ij/)
+    * [ImageJ (ver 1.53K)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.1.0)](https://inkscape.org)
     * [DrawIO Desktop (ver 14.6.13)](https://www.draw.io)
