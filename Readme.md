@@ -1,22 +1,22 @@
 # Installation instructions for a Python environment on an MS Windows-based computer
-## Rev 8/19/2021
+## Rev 8/30/2021
 
 This is a step-by-step guide to install software on your computer for the development of Python programs and Jupyter notebooks.  I put this guide together mostly to document the process that I use.  Your mileage may vary.
 
 You will need the following 4 software titles. I recommend installing them in the following order:
 
-1) [Notepad++ (ver 8.1.3)](NotepadPlusPlus.md) (This is the text editor that I use)
+1) [Notepad++ (ver 8.1.4)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.33.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
-3) [Miniforge (ver 4.10.3-4)](Miniforge.md)  (Stripped down version of Anaconda)
+3) [Miniforge (ver 4.10.3-5)](Miniforge.md)  (Stripped down version of Anaconda)
 4) [VScode (ver 1.59.1)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community (ver 16.11.1)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community (ver 16.11.2)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.2.0)](https://www.libreoffice.org)
 * Sound recorder/editor
-    * [Audacity (ver 3.0.3)](https://www.audacityteam.org)
+    * [Audacity (ver 3.0.4)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.58)](https://www.irfanview.com)
     * [Paint.net (ver 4.2.16)](https://www.getpaint.net)
