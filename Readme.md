@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on an MS Windows-based computer
-## Rev 8/30/2021
+## Rev 9/6/2021
 
 This is a step-by-step guide to install software on your computer for the development of Python programs and Jupyter notebooks.  I put this guide together mostly to document the process that I use.  Your mileage may vary.
 
@@ -7,8 +7,8 @@ You will need the following 4 software titles. I recommend installing them in th
 
 1) [Notepad++ (ver 8.1.4)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.33.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
-3) [Miniforge (ver 4.10.3-5)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.59.1)](VScode.md)  (This is the development IDE that I use)
+3) [Miniforge3 (ver 4.10.3-5)](Miniforge.md)  (Stripped down version of Anaconda)
+4) [VScode (ver 1.60.0)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
 * For Visual Basic and C# applications, I use [Visual Studio Community (ver 16.11.2)](https://visualstudio.microsoft.com/vs/community)
@@ -36,5 +36,5 @@ You will need the following 4 software titles. I recommend installing them in th
 * EE specific tools
     * [KiCAD (ver 5.1.10_1)](https://kicad-pcb.org) (Schematic capture and PCB layout)
     * [LTspice (ver August 8, 2021)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) (Circuit simulation)
-    * [Arduino IDE (ver 1.8.15)](https://www.arduino.cc) (IDE for Arduino control boards)
+    * [Arduino IDE (ver 1.8.16)](https://www.arduino.cc) (IDE for Arduino control boards)
     * [Putty (ver 0.76)](https://www.putty.org) (Communication tool)
