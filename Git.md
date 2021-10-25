@@ -34,6 +34,7 @@
 ![](/images/GitInstall_M.png)
 ![](/images/GitInstall_N.png)
 ![](/images/GitInstall_O.png)
+![](/images/GitInstall_P.png)
 
 6) Now that the software is installed, we need to complete a few steps to finish up.  Go to the Windows search box and type in "cmd"
 
