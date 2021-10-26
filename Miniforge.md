@@ -121,6 +121,9 @@ Now, when you edit the file, there will be a lot of stuff in it. Find where you 
 If you have `Google Chrome` installed, you would modify the last line to look like this (*__don't forget to remove the hash at the begining__*):
 * c.NotebookApp.browser = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe --app=%s'
 
+or, if Chrome is installed in /Program Files/ , then use this
+* c.NotebookApp.browser = 'C:/Program Files/Google/Chrome/Application/chrome.exe --app=%s'
+
 However, if you are going to use `Microsoft Edge`, you would modify the last line to look like this (*__don't forget to remove the hash at the begining__*):
 * c.NotebookApp.browser = 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe --app=%s'
 
