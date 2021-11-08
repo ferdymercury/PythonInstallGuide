@@ -34,7 +34,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Cura (ver 4.11.0)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2021.07)](https://www.meshlab.net)
 * EE specific tools
-    * [KiCAD (ver 5.1.10_1)](https://kicad-pcb.org) (Schematic capture and PCB layout)
+    * [KiCAD (ver 5.1.10_1)](https://kicad.org) (Schematic capture and PCB layout)
     * [LTspice (ver October, 20 2021)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) (Circuit simulation)
     * [Arduino IDE (ver 1.8.16)](https://www.arduino.cc) (IDE for Arduino control boards)
     * [Putty (ver 0.76)](https://www.putty.org) (Communication tool)
